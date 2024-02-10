@@ -1,6 +1,6 @@
 {
   "name": "openjlabel",
-  "module": "src/index.ts",
+  "main": "src/index.ts",
   "type": "module",
   "files": [
     "src",

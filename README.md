@@ -1,6 +1,15 @@
 # OpenJLabel.ts
 Bun向けのOpenJLabelです
 
+## インストール
+```
+# 最新版をインストール
+$ bun add https://github.com/KoharuYuzuki/OpenJLabel.ts.git
+
+# タグを指定してインストール
+$ bun add https://github.com/KoharuYuzuki/OpenJLabel.ts.git#<tag>
+```
+
 ## 使い方
 examples を参考にしてください  
 

@@ -4,10 +4,10 @@ Bun向けのOpenJLabelです
 ## インストール
 ```
 # 最新版をインストール
-$ bun add https://github.com/KoharuYuzuki/OpenJLabel.ts.git
+$ bun add github:KoharuYuzuki/OpenJLabel.ts
 
 # タグを指定してインストール
-$ bun add https://github.com/KoharuYuzuki/OpenJLabel.ts.git#<tag>
+$ bun add github:KoharuYuzuki/OpenJLabel.ts#<tag>
 ```
 
 ## 使い方
